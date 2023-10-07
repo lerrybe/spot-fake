@@ -165,7 +165,7 @@
   );
 
   opacity: 0.7;
-  mix-blend-mode: overlay;
+  mix-blend-mode: soft-light;
 }
 
 
